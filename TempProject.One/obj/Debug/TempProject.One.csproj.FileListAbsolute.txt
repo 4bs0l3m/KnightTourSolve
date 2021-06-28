@@ -1,0 +1,13 @@
+C:\Users\eneso\source\repos\TempProject\TempProject.One\bin\Debug\TempProject.One.exe.config
+C:\Users\eneso\source\repos\TempProject\TempProject.One\bin\Debug\TempProject.One.exe
+C:\Users\eneso\source\repos\TempProject\TempProject.One\bin\Debug\TempProject.One.pdb
+C:\Users\eneso\source\repos\TempProject\TempProject.One\obj\Debug\TempProject.One.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\TempProject\TempProject.One\obj\Debug\TempProject.One.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\TempProject\TempProject.One\obj\Debug\TempProject.One.exe
+C:\Users\eneso\source\repos\TempProject\TempProject.One\obj\Debug\TempProject.One.pdb
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.exe.config
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.exe
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.pdb
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\TempProject.One.csprojAssemblyReference.cache
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\TempProject.One.exe
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\TempProject.One.pdb

@@ -1,0 +1,6 @@
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\KnightTour.csprojAssemblyReference.cache
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\TempProject.One.exe
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\obj\Debug\TempProject.One.pdb
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.exe.config
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.exe
+C:\Users\EOZER\Downloads\TempProject\TempProject\TempProject.One\bin\Debug\TempProject.One.pdb
